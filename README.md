@@ -6,10 +6,10 @@ Usar compila.bat
 
 Basicamente es:
 
-´´´bash
+```
 mkdir build
 cd build
 conan install .. --build=missing
 cmake ..
 cmake --build .
-´´´
+```
