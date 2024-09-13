@@ -1,0 +1,6 @@
+[requires]
+# No necesitamos Boost para este ejemplo
+
+[generators]
+CMakeDeps
+CMakeToolchain
