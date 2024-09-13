@@ -1,6 +1,6 @@
 # Lee un fichero XML con Expresiones regulares.
 El archivo usado es:carpeta_datos/genicam.xml
-Se usa la etiqueta <pFeature> *** </pFeature> para encontrar todas las características de cámara.
+Se usa la etiqueta \<pFeature> *** \</pFeature>  para encontrar todas las características de cámara.
 
 Usar compila.bat
 
